@@ -1,0 +1,9 @@
+This note is for installation flutter on Ubuntu 22.10, it's may work with Ubuntu 22.04 or newer.
+To install Flutter, you need full installation of Android Studio.
+On Ubuntu 22.10, you can run:
+Follow the instruction in [Flutter site](https://docs.flutter.dev/get-started/install/linux):
+- first, get the Flutter SDK, I prefer using snapd to install:
+sudo snap install flutter --classic
+To confirm if installation success, run
+flutter sdk-path
+- 
