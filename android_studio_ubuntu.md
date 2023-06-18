@@ -19,5 +19,13 @@ cd /usr/local/android-studio/bin
 
 3. A new installation window will be opened, keep installing.
 
+## Add Android Studio icon to list applications
+1. Create new project, choose any template and keep the default settings
+2. After successfully creating new project, select `Tools > Create Desktop Entry > Create the entry for all users`
+
+![image](https://github.com/huongphamx/installation_note/assets/91840958/ddf38ad5-fabd-4425-b59c-fbabbffccc49)
+
+![image](https://github.com/huongphamx/installation_note/assets/91840958/a4e19761-9c8e-4fab-a948-11152e3efa5f)
+
 ## Enable KVM for supported hardware
 TODO
